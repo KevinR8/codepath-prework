@@ -35,13 +35,16 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app!
+- [ ] timer
+- [ ] more buttons
+- [ ] random pattern each playthrough
 
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
+![](https://media3.giphy.com/media/03DbrTMCfkBwHMfRjw/giphy.gif?cid=790b7611f172a5098bfcacb5580c40f1b7aefb6b8fe55979&rid=giphy.gif&ct=g)
+![](https://media2.giphy.com/media/C7XbIhpbHet1VSBTHL/giphy.gif?cid=790b761116abdb98806c84f7a8a262e84cbbc0fb45960548&rid=giphy.gif&ct=g)
+![](https://media1.giphy.com/media/RPmseCjxoh4IRxgOh7/giphy.gif?cid=790b7611e2060791c2882e1c07b115d1f54af148061e2c85&rid=giphy.gif&ct=g)
 ![](gif4-link-here)
 
 ## Reflection Questions
@@ -64,12 +67,12 @@ I would add a function that keeps track of how many times you’ve won and lost 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/a0ea989d48d84da59f8de29987398412)
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Kevin Ramos]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
